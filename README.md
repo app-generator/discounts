@@ -4,7 +4,7 @@
 
 <br />
 
-## Material PRO - $65 / 25%OFF
+## Material Dashboard PRO - 25%OFF
 
 A Premium Material Design from Creative-Tim, now discounted with 25%: 
 

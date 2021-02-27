@@ -8,9 +8,9 @@
 
 A Premium Material Design from Creative-Tim, now discounted with 25%: 
 
-- [Flask Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - **ONLY $65** / Regular price: $89
-- [Django Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - **ONLY $65** / Regular price: $89
-- [Material PRO](https://bit.ly/3odmcGy) (HTML Version) - $49 
+- [Flask Material Dashboard PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - **ONLY $65** / Regular price: $89
+- [Django Material Dashboard PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - **ONLY $65** / Regular price: $89
+- [Material Dashboard PRO](https://bit.ly/3odmcGy) (HTML Version) - $49 
 
 <br />
 

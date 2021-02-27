@@ -4,13 +4,19 @@
 
 <br />
 
-## Material Dashboard PRO - 25%OFF
+## [Material Dashboard PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - 25%OFF
 
 A Premium Material Design from Creative-Tim, now discounted with 25%: 
 
 - [Flask Material Dashboard PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - **ONLY $65** / Regular price: $89
 - [Django Material Dashboard PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - **ONLY $65** / Regular price: $89
 - [Material Dashboard PRO](https://bit.ly/3odmcGy) (HTML Version) - $49 
+
+<br />
+
+[Material Dashboard PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) is a Premium Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. It is based on the popular Bootstrap 4 framework and comes packed with multiple third-party plugins. All components are built to fit perfectly with each other, while aligning to the material concepts.
+
+Material Dashboard PRO makes use of light, surface and movement. The general layout resembles sheets of paper following multiple layers, so that the depth and order is obvious. Inside the archive you will find multiple example pages on how to use all components. And, of course, every element is documented.
 
 <br />
 

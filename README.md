@@ -4,6 +4,36 @@
 
 <br />
 
+## 2*PRO Django Themesberg Bundle - $149
+
+> [BUY PRODUCT](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z5TYV4DVZGD3C) - via PayPal
+
+Premium Django starters built with database, authentication, ORM and deployment scrips on top of premium UI kits - [Personal License](https://github.com/app-generator/license-personal):
+
+- [Django Volt PRO](https://appseed.us/admin-dashboards/django-dashboard-volt-pro) - **$74.5** (bundle price) - Regular price: $99 
+- [Django Pixel PRO](https://appseed.us/django/django-pixel-uikit-pro) - **$74.5** (bundle price) - Regular price: $129 
+
+<br />
+
+![2*PRO Django Themesberg Bundle - Provided by AppSeed & Themesberg.](https://user-images.githubusercontent.com/51070104/124125786-aa23ab00-da82-11eb-93f0-2124a85b8aea.png)
+
+<br />
+
+## 2*PRO Flask Themesberg Bundle - $149
+
+> [BUY PRODUCT](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MQU77QRQ3BHPU) - via PayPal
+
+Premium Flask starters built with database, authentication, ORM and deployment scrips on top of premium UI kits - [Personal License](https://github.com/app-generator/license-personal):
+
+- [Flask Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro) - **$74.5** (bundle price) - Regular price: $99 
+- [Fllask Pixel PRO](https://appseed.us/apps/flask-apps/flask-pixel-uikit-pro) - **$74.5** (bundle price) - Regular price: $129 
+
+<br />
+
+![2*PRO Flask Themesberg Bundle - Provided by AppSeed & Themesberg.](https://user-images.githubusercontent.com/51070104/124126158-0edf0580-da83-11eb-9f7b-8aac0d416014.png)
+
+<br />
+
 ## 5*PRO Flask - $199
 
 > [BUY PRODUCT](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B4BH56DSYETUY) - via PayPal
